@@ -28,20 +28,19 @@ The analysis is visualized through various pages:
    - Contains general information about the data.
    - Provides an overview of sales performance.
 
-   ![](https://github.com/ibrahimsaber1/sales-report-dashboard-1/blob/main/screenshots/main%20page%201.0.png)
-
+   ![](https://github.com/ibrahimsaber1/Sales-by-Countries/blob/main/screenshots/main%20page%201.0.png)
 
 3. **Product Subcategory Page**
    - Displays sales trends over the years for different product subcategories.
 
-   ![](https://github.com/ibrahimsaber1/sales-report-dashboard-1/blob/main/screenshots/product%20info%20page.png)
+   ![](https://github.com/ibrahimsaber1/Sales-by-Countries/blob/main/screenshots/product%20info%20page.png)
 
 4. **Region Page**
    - Allows users to analyze sales by region or state.
 
-   ![](https://github.com/ibrahimsaber1/sales-report-dashboard-1/blob/main/screenshots/state%20info%20page%201.0.png)
+   ![](https://github.com/ibrahimsaber1/Sales-by-Countries/blob/main/screenshots/state%20info%20page%201.0.png)
 
-   ![](https://github.com/ibrahimsaber1/sales-report-dashboard-1/blob/main/screenshots/state%20info%20page%201.1.png)
+   ![](https://github.com/ibrahimsaber1/Sales-by-Countries/blob/main/screenshots/state%20info%20page%201.1.png)
 
 ## Analysis Process
 
@@ -75,5 +74,5 @@ Feel free to explore the Power BI project and interact with the visualizations t
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/ibrahimsaber1/sales-report-dashboard-1/blob/main/License).
+This project is licensed under the [MIT License](https://github.com/ibrahimsaber1/Sales-by-Countries/blob/main/License).
 
